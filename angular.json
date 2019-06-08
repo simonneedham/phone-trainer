@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "test": {
+    "phone-trainer": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -120,5 +120,5 @@
         }
       }
     }},
-  "defaultProject": "test"
+  "defaultProject": "phone-trainer"
 }
